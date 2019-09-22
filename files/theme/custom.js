@@ -132,7 +132,7 @@ jQuery(function($) {
         });
 
         // Move cart
-        $.fn.intervalLoop('.unite-header.sticky-nav-on #wsite-menus', base._moveFlyout, 200, 12);
+        // $.fn.intervalLoop('.unite-header.sticky-nav-on #wsite-menus', base._moveFlyout, 200, 12);
 
       	// Copy login
 
